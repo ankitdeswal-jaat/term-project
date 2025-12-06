@@ -2,6 +2,18 @@
 
 Thakran Electronics is a full-stack e-commerce web app for buying computer products. It includes user and admin modules for shopping, product management, and order handling, built according to the Web Term Project guidelines.
 
+## 🔐 Login Credentials
+
+### 👤 User Login
+
+- **Email:** `user@user.com`
+- **Password:** `user123`
+
+### 🛡️ Admin Login
+
+- **Email:** `admin@admin.com`
+- **Password:** `admin123`
+
 ## 📁 Project Structure
 
 ```
@@ -101,8 +113,6 @@ From PDF page 3.
 - **Week 10:** User authentication, sessions, cart functionality
 - **Week 11:** Backend integration, checkout, edge-case handling
 - **Week 12:** Testing, debugging, final review
-
----
 
 ---
 
